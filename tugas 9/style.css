@@ -1,0 +1,15 @@
+img{
+    position: absolute;
+    width: 1500px;
+    height: 1000px;
+}
+div{
+    background-color: white;
+    width: 600px;
+    height: 850px;
+    top: 30px;
+    right:10px;
+    position:absolute;
+    text-align: right;
+    margin: 0 auto;
+}
